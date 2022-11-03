@@ -1,6 +1,9 @@
 {
     "name": "FrontEnd",
     "version": "0.1.0",
+    "engines": {
+        "node": "16.13.x"
+    },
     "private": true,
     "dependencies": {
         "@ag-grid-community/client-side-row-model": "^28.2.0",
