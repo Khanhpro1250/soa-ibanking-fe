@@ -36,7 +36,7 @@
         "react-query": "^3.38.1",
         "react-redux": "7.2.5",
         "react-router-dom": "^6.4.1",
-        "react-scripts": "5.0.1",
+        "react-scripts": "^5.0.1",
         "react-teleporter": "^3.0.2",
         "redux": "^4.2.0",
         "sweetalert2": "^11.4.37",
