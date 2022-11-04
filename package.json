@@ -88,5 +88,6 @@
         "sass": "^1.54.1",
         "tailwindcss": "^3.1.4",
         "ts-nameof": "^5.0.0"
-    }
+    },
+    "proxy": "ibanking-soa.herokuapp.com"
 }
