@@ -4,11 +4,12 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
-const root = ReactDOM.createRoot(document.getElementById('root') as HTMLElement);
-root.render(
+const root = document.getElementById('root');
+ReactDOM.render(
     <React.Fragment>
         <App />
     </React.Fragment>,
+    root
 );
 
 // If you want to start measuring performance in your app, pass a function
