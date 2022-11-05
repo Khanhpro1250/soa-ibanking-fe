@@ -4,6 +4,11 @@
     "engines": {
         "node": "^16.13.x"
     },
+    "proxy": {
+        "/api": {
+          "target": "http://ibanking-soa.herokuapp.com"
+        }
+      },
     "private": true,
     "dependencies": {
         "@ag-grid-community/client-side-row-model": "^28.2.0",
