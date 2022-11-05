@@ -1,0 +1,5 @@
+{
+    "/api": {
+        "target": "https://ibanking-soa.herokuapp.com",
+    }
+}
