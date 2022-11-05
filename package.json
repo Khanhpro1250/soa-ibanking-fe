@@ -6,7 +6,7 @@
     },
     "proxy": {
         "/api": {
-          "target": "http://ibanking-soa.herokuapp.com"
+          "target": "https://ibanking-soa.herokuapp.com"
         }
       },
     "private": true,
