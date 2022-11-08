@@ -6,6 +6,7 @@
     },
     "private": true,
     "dependencies": {
+        "http-proxy-middleware": "^2.0.1",
         "@ag-grid-community/client-side-row-model": "^28.2.0",
         "@ag-grid-community/core": "^28.2.0",
         "@ag-grid-community/react": "^28.2.0",
@@ -88,6 +89,5 @@
         "sass": "^1.54.1",
         "tailwindcss": "^3.1.4",
         "ts-nameof": "^5.0.0"
-    },
-    "proxy": "https://ibanking-soa.herokuapp.com/"
+    }
 }
